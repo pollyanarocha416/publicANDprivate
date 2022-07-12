@@ -6,7 +6,7 @@ class jogador{
 
     public jogador(string nome){
         this.nome = nome;
-        energia = 100;
+        energia = 0;
     }
     public int getEnergia(){
         return energia;
