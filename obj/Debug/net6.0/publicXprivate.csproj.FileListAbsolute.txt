@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\publicXprivate\bin\Debug\net6.0\publicXprivate.exe
+C:\Users\Usuário\Desktop\publicXprivate\bin\Debug\net6.0\publicXprivate.deps.json
+C:\Users\Usuário\Desktop\publicXprivate\bin\Debug\net6.0\publicXprivate.runtimeconfig.json
+C:\Users\Usuário\Desktop\publicXprivate\bin\Debug\net6.0\publicXprivate.dll
+C:\Users\Usuário\Desktop\publicXprivate\bin\Debug\net6.0\publicXprivate.pdb
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.dll
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\refint\publicXprivate.dll
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.pdb
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\publicXprivate.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\publicXprivate\obj\Debug\net6.0\ref\publicXprivate.dll
